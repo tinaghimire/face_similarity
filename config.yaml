@@ -1,0 +1,12 @@
+
+    path: /content/drive/MyDrive/Face_similarity/Dataset
+    train: images/train
+    val: images/val
+    nc: 6
+    names:
+        0: eyes
+        1: ear
+        2: nose
+        3: mouth
+        4: brow
+        5: neck
