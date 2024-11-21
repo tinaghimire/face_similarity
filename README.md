@@ -18,10 +18,9 @@
 
 ### Training Data example:
 
-![Training Data](Results/train_batch0.jpg){: width="300px" }
+<img src="Results/train_batch0.jpg" alt="training" width="300">
 
 ### Validation Data example:
 
-![Validation Data](Results/val_batch0_labels.jpg){: width="300px" }
-![Validation Data](Results/val_batch0_pred.jpg){: width="300px" }
-
+<img src="Results/val_batch0_labels.jpg" alt="validation" width="300">
+<img src="Results/val_batch0_pred.jpg" alt="validation" width="300">
