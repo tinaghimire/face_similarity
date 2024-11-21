@@ -16,12 +16,12 @@
 
 - All obtained results can be viewed in the result folder.
 
-![Results](Results\results.png)
+![Results](Results/results.png)
 
 Training Data example:
 
-![Training Data](Results\train_batch0.jpg)
+![Training Data](Results/train_batch0.jpg)
 
 Validation Data example:
 
-![Validation Data](Results\val_batch0_labels.jpg) ![Validation Data](Results\val_batch0_pred.jpg)
+![Validation Data](Results/val_batch0_labels.jpg) ![Validation Data](Results/val_batch0_pred.jpg)
